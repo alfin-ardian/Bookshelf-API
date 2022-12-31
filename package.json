@@ -22,5 +22,8 @@
     "eslint": "^8.31.0",
     "eslint-config-google": "^0.14.0",
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.1.0"
   }
 }
