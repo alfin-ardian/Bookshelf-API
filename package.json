@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alfin-ardian/Bookshelf-API/issues"
   },
-  "homepage": "https://github.com/alfin-ardian/Bookshelf-API#readme"
+  "homepage": "https://github.com/alfin-ardian/Bookshelf-API#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
